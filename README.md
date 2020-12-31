@@ -1,3 +1,2 @@
-<h1>Hey</h1>
-<h2>I Write Code</h2>
+<h1>Mehmet</h1>
 </br>
