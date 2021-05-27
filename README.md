@@ -3,6 +3,6 @@
 <h2> Website: </h2>
 <center>
 <a href="https://pythaxprivate.net">
-  <img src="https://pythaxprivate.net/ci/pyth.png">
+  <h1>pythaxprivate.net</h1>
 </a>
 </center>
